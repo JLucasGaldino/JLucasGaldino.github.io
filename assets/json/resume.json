@@ -1,32 +1,42 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Lucas Galdino",
+    "label": "Student of biomedical sciences",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "general@lucasgaldino.anonaddy.com",
+    "phone": "",
+    "url": "https://jlucasgaldino.github.io",
+    "summary": "I write code as a freelance and open-source developer, publish content on my YouTube channel and personal website, and study biomedical sciences at the Université du Québec de Trois-Rivières.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "_lucas_galdino",
+        "url": "https://x.com/_lucas_galdino"
+      },
+      {
+        "network": "YouTube",
+        "username": "JLucasGaldino",
+        "url": "https://www.youtube.com/@JLucasGaldino"
+      },
+      {
+        "network": "GitHub",
+        "username": "JLucasGaldino",
+        "url": "https://www.github.com/JLucasGaldino"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "Pharmacie Jean-Coutu",
+      "position": "Pharmacy laboratory technician",
+      "url": "",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
