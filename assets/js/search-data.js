@@ -478,7 +478,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@JLucasGaldino", "_blank");
+          window.open("https://youtube.com/@codelifeminds", "_blank");
         },
       },{
         id: 'social-custom_social',
