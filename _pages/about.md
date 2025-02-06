@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Reading, writing, coding, and studying biomedical science
 
 profile:
   align: right
@@ -24,8 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Lucas Galdino. I'm a Brazilian-Canadian student of biomedical
+engineering and data science living in Portugal. I also play music and am an
+Orthodox Christian. Welcome to my personal website and blog.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This place is both my portfolio and personal blog. Here, you can find links to
+various coding and academic projects, as well as articles and videos on topics
+that interest me. In this website, and in my YouTube channel, we'll explore
+topics on the intersection of coding and health, with maybe a pinch of
+philosophy here and there. If that interests you, I hope you might find my
+content informative or enjoyable.
