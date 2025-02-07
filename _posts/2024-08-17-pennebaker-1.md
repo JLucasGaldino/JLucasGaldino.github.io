@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A journaling method to help you deal with trauma, anxiety, depression, and autoimmune disease
+title: The Pennebaker journaling method
 date: 2024-08-17 01:59:00
-description: The Pennebaker journaling method
+description: A journaling method to help you deal with trauma, anxiety, depression, and autoimmune disease
 tags: journaling mentalhealth habits psychology
 categories: article
 thumbnail: assets/img/9.jpg
@@ -10,7 +10,7 @@ thumbnail: assets/img/9.jpg
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/VOtEA_IcbKc?feature=shared" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/VOtEA_IcbKc" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
