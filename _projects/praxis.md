@@ -4,7 +4,7 @@ title: Praxis
 description: Android and iOS app for Christian daily prayers, reading, and fasting
 img: assets/img/praxis-icon.jpg
 importance: 1
-category: mobile apps
+category: mobile-apps
 related_publications: true
 ---
 
