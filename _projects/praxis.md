@@ -8,7 +8,7 @@ category: mobile-apps
 related_publications: true
 ---
 
-<p align="center"><img src="assets/images/praxis-icon.png" width="150"></p>
+<p align="center"><img src="assets/img/praxis-icon.jpg" width="150"></p>
 <h1 align="center"><b><a href="https://github.com/JLucasGaldino/Praxis" target="_blank">Praxis</a></b></h1>
 <h4 align="center">Orthodox daily prayers, readings, and fasting information</h4>
 <p align="center">
